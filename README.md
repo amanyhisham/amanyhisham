@@ -1,23 +1,31 @@
-## Hi, I'm <span style="color:#0078D4">Amany Hisham</span> ✨
+<h1 align="center">Hi 👋, I'm Amany Hisham</h1>
+<h3 align="center">Full Stack .NET Developer | Frontend Developer | Top of my Class</h3>
 
 <p align="center">
-  <img width="50%" alt="typing animation" src="https://raw.githubusercontent.com/amanyhisham/amanyhisham/main/typing-animation.svg">
+  <a href="https://github.com/amanyhisham"><img src="https://github-profile-trophy.vercel.app/?username=amanyhisham" alt="Amany Hisham" /></a>
 </p>
 
-[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amanyhisham)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/amanyhisham2004)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/amanyhesham/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amanyhisham43@gmail.com)
+- 👩‍💻 I’m currently a Full Stack .NET Developer (ITI 6-month Program)  
+- 💻 Previously: Frontend Developer (Depi Bootcamp)  
+- 🏆 Graduated top of my class last 2 years, Project Graduation: Excellent  
+- 👯 I’m looking to collaborate on **.NET or Web projects**  
+- 💬 Ask me about **.NET, C#, SQL, Frontend, Web Development**  
+- 📫 How to reach me: [amanyhisham43@gmail.com](mailto:amanyhisham43@gmail.com)  
 
 ---
 
-### About Me
-- 👩‍💻 Full Stack .NET Developer (ITI 6-month Full Stack .NET Program)  
-- 💻 Previously: Frontend Developer (Graduated From Depi )  
-- 🏆 Graduated top of my class last 2 years, Project Graduation: Excellent  
-- 🌱 Learning advanced .NET, C#, and clean code practices  
-- 💬 Happy to help with .NET, C#, SQL, Web Development  
-- 📫 Reach me at: amanyhisham43@gmail.com  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanyhisham&show_icons=true&locale=en&layout=compact" alt="amanyhisham" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanyhisham&show_icons=true&locale=en" alt="amanyhisham" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanyhisham&" alt="amanyhisham" /></p>
+
+---
+
+### Socials
+[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amanyhisham)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/amanyhisham2004)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/amanyhesham/)
 
 ---
 
@@ -32,29 +40,4 @@
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-</p>
-
----
-
-### GitHub Stats
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=amanyhisham&show_icons=true&count_private=true&hide_border=true&theme=radical" />
-</p>
-
----
-
-### Main Projects
-<p align="center">
-  <a href="https://github.com/amanyhisham/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanyhisham&repo=project1" />
-  </a>
-  <a href="https://github.com/amanyhisham/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanyhisham&repo=project2" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/amanyhisham/amanyhisham.svg" />
 </p>
