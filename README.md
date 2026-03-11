@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Amany Hisham</h1>
-<h3 align="center">Full Stack .NET Developer | Frontend Developer | Top of my Class</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+<h1 align="center">Welcome to Amany Hisham's profile! 👋</h1>
+<h3 align="center">Full Stack .NET Developer | Frontend Developer </h3>
 
-<p align="center">
-  <a href="https://github.com/amanyhisham"><img src="https://github-profile-trophy.vercel.app/?username=amanyhisham" alt="Amany Hisham" /></a>
-</p>
+ 
 
+- 🔭 I'm a Software Engineer
 - 👩‍💻 I’m currently a Full Stack .NET Developer (ITI 6-month Program)  
-- 💻 Previously: Frontend Developer (Depi Bootcamp)  
-- 🏆 Graduated top of my class last 2 years, Project Graduation: Excellent  
+- 💻 Previously: Frontend Developer (Depi  6-month Program)  
+- 🏆 I’m a Computer Science graduate, ranked first in my class for the last 2 years, Project Graduation: Excellent  
 - 👯 I’m looking to collaborate on **.NET or Web projects**  
 - 💬 Ask me about **.NET, C#, SQL, Frontend, Web Development**  
 - 📫 How to reach me: [amanyhisham43@gmail.com](mailto:amanyhisham43@gmail.com)  
