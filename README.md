@@ -28,7 +28,7 @@
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amanyhisham)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/amanyhisham2004)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/amanyhesham/)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanyhesham/)
 ---
 
 ### Languages & Tools
