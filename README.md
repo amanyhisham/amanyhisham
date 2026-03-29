@@ -16,11 +16,16 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanyhisham&show_icons=true&locale=en&layout=compact" alt="amanyhisham" /></p>
+<## 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanyhisham&show_icons=true&locale=en" alt="amanyhisham" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanyhisham&" alt="amanyhisham" /></p>
+<img width="360" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yousef721&show_icons=true&hide_border=true&title_color=FF8C00&icon_color=FFA500&text_color=333&count_private=true&include_all_commits=true&bg_color=fafafa" />
+<img width="360" height="180" src="https://streak-stats.demolab.com/?user=yousef721&hide_border=true&ring=FF8C00&fire=FFA500&currStreakLabel=FF8C00&sideLabels=333&dates=888&background=fafafa" />
+
+</div>
+
+<br/>
 
 ---
 
