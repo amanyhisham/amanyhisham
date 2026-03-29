@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C19A6B&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=92400E&height=120&section=header" />
 </div>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C19A6B&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Welcome+to+Amany+Hisham%27s+Profile!;Full+Stack+.NET+Developer;Frontend+Developer;CS+Graduate+%7C+Ranked+1st+%F0%9F%8F%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=92400E&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B+Welcome+to+Amany+Hisham%27s+Profile!;Full+Stack+.NET+Developer;Frontend+Developer;CS+Graduate+%7C+Ranked+1st+%F0%9F%8F%86" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,12 +27,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="360" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanyhisham&show_icons=true&hide_border=true&title_color=C19A6B&icon_color=C19A6B&text_color=333&count_private=true&include_all_commits=true&bg_color=fafafa" />
-<img width="360" height="180" src="https://streak-stats.demolab.com/?user=amanyhisham&hide_border=true&ring=C19A6B&fire=C19A6B&currStreakLabel=C19A6B&sideLabels=333&dates=888&background=fafafa" />
+<img width="360" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amanyhisham&show_icons=true&hide_border=true&title_color=92400E&icon_color=92400E&text_color=333&count_private=true&include_all_commits=true&bg_color=fafafa" />
+<img width="360" height="180" src="https://streak-stats.demolab.com/?user=amanyhisham&hide_border=true&ring=92400E&fire=92400E&currStreakLabel=92400E&sideLabels=333&dates=888&background=fafafa" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanyhisham&layout=compact&hide_border=true&title_color=C19A6B&text_color=333&bg_color=fafafa" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amanyhisham&layout=compact&hide_border=true&title_color=92400E&text_color=333&bg_color=fafafa" />
 </div>
 
 <br/>
@@ -108,15 +108,15 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanyhisham&bg_color=fafafa&color=C19A6B&line=C19A6B&point=C19A6B&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanyhisham&bg_color=fafafa&color=92400E&line=92400E&point=92400E&area=true&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanyhisham&color=C19A6B&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=amanyhisham&color=92400E&style=flat-square&label=Profile+Views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C19A6B&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=92400E&height=80&section=footer" />
 </div>
