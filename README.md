@@ -39,18 +39,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanyhisham/amanyhisham/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amanyhisham/amanyhisham/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/amanyhisham/amanyhisham/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
 ### 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amanyhisham)
