@@ -39,14 +39,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanyhisham/amanyhisham/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amanyhisham/amanyhisham/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/amanyhisham/amanyhisham/output/github-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanyhisham&bg_color=fafafa&color=92400E&line=92400E&point=92400E&area=true&hide_border=true" />
 </div>
 
 ---
@@ -101,14 +97,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap" />
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanyhisham&bg_color=fafafa&color=92400E&line=92400E&point=92400E&area=true&hide_border=true" />
 </div>
 
 ---
