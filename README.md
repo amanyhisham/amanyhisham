@@ -108,3 +108,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=92400E&height=80&section=footer" />
 </div>
+
+![GitHub Metrics](https://metrics.lecoq.io/amanyhisham?plugin.habits=true&plugin.habits.charts=true&config.timezone=Africa/Cairo)
