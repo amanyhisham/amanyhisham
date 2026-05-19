@@ -109,4 +109,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=92400E&height=80&section=footer" />
 </div>
 
-![GitHub Metrics](https://metrics.lecoq.io/amanyhisham?plugin.habits=true&plugin.habits.charts=true&config.timezone=Africa/Cairo)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanyhisham&show_icons=true&theme=radial&count_private=true" alt="Amany's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanyhisham&layout=compact&theme=radial" alt="Top Languages" />
+</p>
