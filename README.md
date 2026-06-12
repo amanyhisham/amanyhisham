@@ -20,7 +20,7 @@
 - 🏆 Computer Science graduate, ranked first for the last 2 years (Excellent Graduation Project)  
 - 👯 I'm looking to collaborate on **.NET or Web projects**  
 - 💬 Ask me about **.NET, C#, SQL, Frontend, Web Development**  
-- 📫 How to reach me: **amanyhisham43@gmail.com**
+- 📫 How to reach me: **amanyhesham43@gmail.com**
 
 ---
 
