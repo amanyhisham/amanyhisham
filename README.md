@@ -14,7 +14,7 @@
 
 ---
 
-- 🔭 I'm a Software Engineer  
+- 🔭 I'm a Software Engineer  .
 - 👩‍💻 I'm currently a Full Stack .NET Developer (ITI 6-month Program)  
 - 💻 Previously: Frontend Developer (Depi 6-month Program)  
 - 🏆 Computer Science graduate, ranked first for the last 2 years (Excellent Graduation Project)  
