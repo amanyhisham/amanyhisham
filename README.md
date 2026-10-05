@@ -42,7 +42,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/92400E/amanyhisham" alt="amanyhisham's GitHub contribution chart" width="700" />
+  <img src="assets/activity-graph.svg" alt="Contribution Graph" width="700" />
 </div>
 
 ---
