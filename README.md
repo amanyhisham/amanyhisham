@@ -42,7 +42,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="assets/activity-graph.svg" alt="Contribution Graph" width="700" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=amanyhisham&bg_color=fafafa&color=92400E&line=92400E&point=92400E&area=true&hide_border=true" alt="Contribution Graph" width="800" />
 </div>
 
 ---
