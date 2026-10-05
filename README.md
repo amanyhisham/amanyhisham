@@ -32,8 +32,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanyhisham&layout=compact&hide_border=true&title_color=92400E&text_color=333&bg_color=fafafa" />
-  <img width="360" src="https://github-readme-stats.vercel.app/api?username=amanyhisham&show_icons=true&hide_border=true&title_color=92400E&icon_color=92400E&text_color=333&bg_color=fafafa&count_private=true&custom_title=More+GitHub+Stats&hide=stars,commits,prs&show=reviews,prs_merged,discussions_started,discussions_answered&hide_rank=true" />
+<img width="360" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanyhisham&layout=compact&hide_border=true&title_color=92400E&text_color=333&bg_color=fafafa&card_width=360" />
+<img width="360" height="180" src="https://github-readme-stats.vercel.app/api?username=amanyhisham&show_icons=true&hide_border=true&title_color=92400E&icon_color=92400E&text_color=333&bg_color=fafafa&count_private=true&custom_title=More+GitHub+Stats&hide=stars,commits,prs,issues,contribs&show=reviews,prs_merged,discussions_started,discussions_answered&hide_rank=true&card_width=360" />
 </div>
 
 <br/>
@@ -119,18 +119,6 @@
 
 </div>
 
-<div align="left">
-
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-92400E?style=flat&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web_API-92400E?style=flat&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-92400E?style=flat)
-![SignalR](https://img.shields.io/badge/SignalR-92400E?style=flat)
-![DevOps](https://img.shields.io/badge/DevOps-92400E?style=flat)
-![Agile](https://img.shields.io/badge/Agile-92400E?style=flat)
-![Scrum](https://img.shields.io/badge/Scrum-92400E?style=flat)
-![Testing](https://img.shields.io/badge/Testing-92400E?style=flat)
-
-</div>
 
 ---
 
