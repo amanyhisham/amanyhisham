@@ -8,19 +8,19 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=92400E&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Welcome+to+Amany+Hisham%27s+Profile!;Full+Stack+.NET+Developer;Frontend+Developer;CS+Graduate+%7C+Ranked+1st+%F0%9F%8F%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=92400E&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+Ranked+1st+in+the+Computer+Science+Department;Back-End+.NET+Developer;Frontend+Angular+Developer;Full+Stack+.NET+Developer" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-- 🔭 I'm a Software Engineer  .
-- 👩‍💻 I'm a Full Stack .NET Developer, ITI Graduate (6-month Program)  
-- 💻 Previously: Frontend Developer (Depi 6-month Program)  
-- 🏆 Computer Science graduate, ranked first for the last 2 years (Excellent Graduation Project)  
-- 👯 I'm looking to collaborate on **.NET or Web projects**  
-- 💬 Ask me about **.NET, C#, SQL, Frontend, Web Development**  
-- 📫 How to reach me: **amanyhesham43@gmail.com**
+- 🔭 I'm a **Software Engineer**.
+- 👩‍💻 ITI Graduate – **Full-Stack Web & Generative AI Development using .NET**
+- 💻 DEPI Graduate – **React Frontend Web Developer**
+- 🎓 Graduate of **Computers & Information – Computer Science Department**
+- 🏆 Ranked **first** in my department for the last 2 years (Excellent Graduation Project)
+- 💬 Passionate about **Frontend** and **.NET Backend** development – ask me anything about them
+- 📫 How to reach me: [amanyhesham43@gmail.com](mailto:amanyhesham43@gmail.com)
 
 ---
 
@@ -33,6 +33,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanyhisham&layout=compact&hide_border=true&title_color=92400E&text_color=333&bg_color=fafafa" />
+  <img width="360" src="https://github-readme-stats.vercel.app/api?username=amanyhisham&show_icons=true&hide_border=true&title_color=92400E&icon_color=92400E&text_color=333&bg_color=fafafa&count_private=true&custom_title=More+GitHub+Stats&hide=stars,commits,prs&show=reviews,prs_merged,discussions_started,discussions_answered&hide_rank=true" />
 </div>
 
 <br/>
@@ -49,10 +50,15 @@
 
 ### 🌐 Socials
 
-[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amanyhisham)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1f8acb?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/amanyhisham2004)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/amanyhesham/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanyhesham/)
+<div align="left">
+  <a href="https://github.com/amanyhisham"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" /></a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/amanyhesham/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" title="LinkedIn" /></a>
+  <img width="12" />
+  <a href="https://codeforces.com/profile/amanyhisham2004"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="40" title="Codeforces" /></a>
+  <img width="12" />
+  <a href="https://leetcode.com/u/amanyhesham/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" title="LeetCode" /></a>
+</div>
 
 ---
 
@@ -96,6 +102,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap" />
+  <img width="12" />
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" title="Angular" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" title="jQuery" />
+  <img width="12" />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Azure" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" title="Azure DevOps" />
+
+</div>
+
+<div align="left">
+
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-92400E?style=flat&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-92400E?style=flat&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-92400E?style=flat)
+![SignalR](https://img.shields.io/badge/SignalR-92400E?style=flat)
+![DevOps](https://img.shields.io/badge/DevOps-92400E?style=flat)
+![Agile](https://img.shields.io/badge/Agile-92400E?style=flat)
+![Scrum](https://img.shields.io/badge/Scrum-92400E?style=flat)
+![Testing](https://img.shields.io/badge/Testing-92400E?style=flat)
 
 </div>
 
