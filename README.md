@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=92400E&height=120&section=header" />
 </div>
 
@@ -123,7 +123,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanyhisham&color=92400E&style=flat-square&label=Profile+Views" />
+  <a href="https://hits.sh/github.com/amanyhisham/"><img alt="Profile Views" src="https://hits.sh/github.com/amanyhisham.svg?style=flat-square&label=Profile%20Views&color=92400E&labelColor=555555" /></a>
 </div>
 
 <div align="center">
