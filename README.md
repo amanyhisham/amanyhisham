@@ -119,13 +119,3 @@
 
 </div>
 
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanyhisham&color=92400E&style=flat-square&label=Profile+Views" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=92400E&height=80&section=footer" />
-</div>
