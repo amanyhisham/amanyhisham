@@ -27,13 +27,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="360" height="180" src="https://github-readme-stats.vercel.app/api?username=amanyhisham&show_icons=true&hide_border=true&title_color=92400E&icon_color=92400E&text_color=333&count_private=true&include_all_commits=true&bg_color=fafafa" />
+<img width="360" height="180" src="assets/stats.svg" />
 <img width="360" height="180" src="https://streak-stats.demolab.com/?user=amanyhisham&hide_border=true&ring=92400E&fire=92400E&currStreakLabel=92400E&sideLabels=333&dates=888&background=fafafa" />
 </div>
 
 <div align="center">
-<img width="360" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanyhisham&layout=compact&hide_border=true&title_color=92400E&text_color=333&bg_color=fafafa&card_width=360" />
-<img width="360" height="180" src="https://github-readme-stats.vercel.app/api?username=amanyhisham&show_icons=true&hide_border=true&title_color=92400E&icon_color=92400E&text_color=333&bg_color=fafafa&count_private=true&custom_title=More+GitHub+Stats&hide=stars,commits,prs,issues,contribs&show=reviews,prs_merged,discussions_started,discussions_answered&hide_rank=true&card_width=360" />
+<img width="360" height="180" src="assets/langs.svg" />
+<img width="360" height="180" src="assets/extra.svg" />
 </div>
 
 <br/>
