@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=92400E&height=120&section=header" />
 </div>
 
@@ -27,17 +27,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanyhisham&theme=gruvbox" />
+</div>
+
+<div align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=amanyhisham&hide_border=true&ring=92400E&fire=92400E&currStreakLabel=92400E&sideLabels=333&dates=888&background=fafafa" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanyhisham&theme=default" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanyhisham&theme=default" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanyhisham&theme=default" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanyhisham&theme=default" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanyhisham&theme=gruvbox" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanyhisham&theme=gruvbox" />
 </div>
 
 <br/>
