@@ -27,16 +27,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanyhisham&theme=gruvbox" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanyhisham&theme=gruvbox" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=amanyhisham&hide_border=true&ring=92400E&fire=92400E&currStreakLabel=92400E&sideLabels=333&dates=888&background=fafafa" />
+  <img width="700" src="https://streak-stats.demolab.com/?user=amanyhisham&hide_border=true&ring=92400E&fire=92400E&currStreakLabel=92400E&sideLabels=333&dates=888&background=fafafa" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanyhisham&theme=gruvbox" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanyhisham&theme=gruvbox" />
+  <img width="346" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanyhisham&theme=gruvbox" />
+  <img width="346" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanyhisham&theme=gruvbox" />
 </div>
 
 <br/>
@@ -46,7 +46,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=amanyhisham&bg_color=fafafa&color=92400E&line=92400E&point=92400E&area=true&hide_border=true" alt="Contribution Graph" width="800" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=amanyhisham&bg_color=fafafa&color=92400E&line=92400E&point=92400E&area=true&hide_border=true" alt="Contribution Graph" width="700" />
 </div>
 
 ---
