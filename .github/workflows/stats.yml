@@ -1,4 +1,4 @@
- name: Generate Stats Cards
+name: Generate Stats Cards
 
 on:
   schedule:
