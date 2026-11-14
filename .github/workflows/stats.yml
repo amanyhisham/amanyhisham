@@ -1,0 +1,34 @@
+ name: Generate Stats Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate cards
+        run: |
+          mkdir -p stats
+          BASE="https://github-readme-stats.vercel.app/api"
+          U="amanyhisham"
+          C="title_color=92400E&icon_color=92400E&text_color=333&bg_color=fafafa&hide_border=true"
+
+          curl -fsSL "$BASE?username=$U&show_icons=true&count_private=true&include_all_commits=true&$C" -o stats/stats.svg
+          curl -fsSL "$BASE/top-langs/?username=$U&layout=compact&card_width=360&$C" -o stats/langs.svg
+          curl -fsSL "$BASE?username=$U&show_icons=true&count_private=true&custom_title=More+GitHub+Stats&hide=stars,commits,prs,issues,contribs&show=reviews,prs_merged,discussions_started,discussions_answered&hide_rank=true&card_width=360&$C" -o stats/more.svg
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats/
+          git diff --staged --quiet || git commit -m "chore: update stats cards"
+          git push
